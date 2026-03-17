@@ -1,8 +1,4 @@
-Here is your **🔥 fully upgraded, premium, ready-to-paste README.md** — structured like a top-tier GitHub project (no edits needed):
 
----
-
-```markdown
 # 🚀 AlgoOracle AI  
 
 [![Open App](https://img.shields.io/badge/🚀%20Launch-App-blue?style=for-the-badge)](https://algooracle-ai-tk6znicsfmvqcxb4aef8w.streamlit.app)
