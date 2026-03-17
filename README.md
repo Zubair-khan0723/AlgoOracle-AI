@@ -325,6 +325,3 @@ If you like this project, consider giving it a ⭐ on GitHub!
 ```
 
 
-
-Just say: **“make it viral-level project”** 🚀
-```
