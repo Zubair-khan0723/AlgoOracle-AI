@@ -1,0 +1,601 @@
+uses_array,uses_graph,uses_hashmap,uses_heap,recursion,dynamic_programming,divide_conquer,shortest_path,mst,topological,sorting,search,sliding_window,greedy,backtracking,bitwise,string_problem,algorithm,category
+1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,Binary Search,Search
+1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Binary Search,Search
+1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,Binary Search,Search
+1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Binary Search,Search
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Two Sum,Hashing
+1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Two Sum,Hashing
+1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Two Sum,Hashing
+1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Two Sum,Hashing
+1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Two Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Three Sum,Hashing
+1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Three Sum,Hashing
+1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Three Sum,Hashing
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Three Sum,Hashing
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Three Sum,Hashing
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Three Sum,Hashing
+0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,DFS,Graph Traversal
+0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,DFS,Graph Traversal
+0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DFS,Graph Traversal
+1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,DFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,BFS,Graph Traversal
+0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,BFS,Graph Traversal
+0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,BFS,Graph Traversal
+0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,BFS,Graph Traversal
+0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,BFS,Graph Traversal
+0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,BFS,Graph Traversal
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,BFS,Graph Traversal
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Dijkstra,Shortest Path
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Dijkstra,Shortest Path
+1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Dijkstra,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Bellman Ford,Shortest Path
+0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Bellman Ford,Shortest Path
+0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,Bellman Ford,Shortest Path
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Bellman Ford,Shortest Path
+0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bellman Ford,Shortest Path
+1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,Floyd Warshall,Shortest Path
+0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Floyd Warshall,Shortest Path
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,Merge Sort,Sorting
+1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,Merge Sort,Sorting
+1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Merge Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,Quick Sort,Sorting
+1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Quick Sort,Sorting
+1,0,0,1,0,0,1,0,0,1,1,1,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,Heap Sort,Sorting
+0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,Heap Sort,Sorting
+1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,1,1,0,0,0,1,0,0,1,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,Heap Sort,Sorting
+1,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,Heap Sort,Sorting
+0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,Heap Sort,Sorting
+1,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Heap Sort,Sorting
+0,1,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,Kruskal,MST
+0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,Kruskal,MST
+1,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,Kruskal,MST
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,Kruskal,MST
+1,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,Kruskal,MST
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Kruskal,MST
+1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,Kruskal,MST
+0,1,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,Kruskal,MST
+0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Kruskal,MST
+0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,1,1,0,1,0,0,1,0,1,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,Prim,MST
+0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Prim,MST
+0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Prim,MST
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,N Queens,Backtracking
+0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,N Queens,Backtracking
+1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,N Queens,Backtracking
+0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,N Queens,Backtracking
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,N Queens,Backtracking
+1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,N Queens,Backtracking
+0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,Sudoku Solver,Backtracking
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,Sudoku Solver,Backtracking
+1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,Sudoku Solver,Backtracking
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Sudoku Solver,Backtracking
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Sudoku Solver,Backtracking
