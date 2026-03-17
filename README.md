@@ -51,8 +51,43 @@ The model learns from features such as:
 
 ✔ Interpretable model  
 ✔ Works well on small datasets  
-✔ Allows **Explainable AI**  
-✔ Enables visualization of decision paths  
+✔ Enables **Explainable AI**  
+✔ Visualizes decision paths clearly  
+✔ Ideal for rule-based reasoning systems  
+
+---
+
+## 📊 Model Training Notebook
+
+The complete ML pipeline is available in:
+
+📁 `notebook/model_training.ipynb`
+
+It includes:
+
+- Data preprocessing  
+- Feature engineering  
+- Decision Tree training  
+- Model evaluation  
+- Exporting `.pkl` models  
+
+---
+
+## 📂 Dataset
+
+The dataset used for training is available here:
+
+📁 `dataset/algorithm_dataset.csv`
+
+It contains structured features describing algorithm behavior such as:
+
+- uses_array  
+- uses_graph  
+- recursion  
+- dynamic_programming  
+- shortest_path  
+
+> 📌 This is a custom-designed dataset to simulate algorithm selection using ML.
 
 ---
 
@@ -86,52 +121,52 @@ The model learns from features such as:
 ## ✨ Key Features
 
 ### 🤖 AI Predictor (ML-Based)
-- Interactive question system
-- Uses Decision Tree for prediction
-- Simulates Akinator-style algorithm guessing
+- Interactive question system  
+- Uses Decision Tree for prediction  
+- Simulates Akinator-style algorithm guessing  
 
 ---
 
 ### 🧠 Smart NLP Predictor
-- Understands real problem descriptions
-- Detects algorithm using keyword + weighted scoring
-- Predicts with confidence
+- Understands real problem descriptions  
+- Uses weighted keyword detection  
+- Returns prediction with confidence  
 
 ---
 
 ### 💬 AI Assistant (Reasoning Engine)
-- Chat-based interface
-- Detects problem features
+- Chat-based intelligent assistant  
+- Detects problem features  
 - Explains:
-  - ✔ Why algorithm is chosen
-  - ✔ Time complexity
-  - ✔ Problem characteristics
+  - ✔ Why algorithm is chosen  
+  - ✔ Time complexity  
+  - ✔ Problem characteristics  
 
 ---
 
 ### 📊 Explainable AI
-- Feature importance visualization
-- Decision tree structure visualization
-- Transparent decision-making
+- Feature importance visualization  
+- Decision tree structure visualization  
+- Transparent model reasoning  
 
 ---
 
 ### 🌐 Algorithm Knowledge Graph
-- Interactive visualization
-- Organized by categories
-- Highlights predicted algorithm dynamically
+- Interactive graph visualization  
+- Organized by categories  
+- Dynamically highlights predicted algorithm  
 
 ---
 
 ## 🎨 UI/UX Design
 
-- 🌌 AI-themed animated background
-- Glassmorphism interface
-- Smooth transitions
+- 🌌 Animated AI-themed background  
+- Glassmorphism interface  
+- Smooth transitions  
 - AI character states:
-  - Thinking 🤔
-  - Processing ⚙️
-  - Result 😄
+  - Thinking 🤔  
+  - Processing ⚙️  
+  - Result 😄  
 
 ---
 
@@ -161,6 +196,12 @@ AlgoOracle-AI/
 │   ├── label_encoder.pkl
 │   └── features.pkl
 │
+├── notebook/
+│   └── model_training.ipynb
+│
+├── dataset/
+│   └── algorithm_dataset.csv
+│
 ├── utils/
 ├── visualizations/
 ├── data/
@@ -182,7 +223,7 @@ AlgoOracle-AI/
 ## ⚙️ Installation
 
 ```bash
-https://github.com/Zubair-khan0723/AlgoOracle-AI
+git clone https://github.com/Zubair-khan0723/AlgoOracle-AI.git
 cd AlgoOracle-AI
 pip install -r requirements.txt
 streamlit run app.py
@@ -209,17 +250,17 @@ Confidence: High
 
 ## 🔮 Future Improvements
 
-* Deep Learning NLP model
+* Deep Learning-based NLP model
 * More algorithm coverage
-* Code generation
+* Code generation suggestions
 * API deployment
-* Real-time problem solving assistant
+* Real-time AI assistant
 
 ---
 
 ## 👨‍💻 Author
 
-Developed by **Zubair khan**
+Developed by **Zubair Khan**
 
 ---
 
@@ -228,5 +269,7 @@ Developed by **Zubair khan**
 If you like this project, consider giving it a ⭐ on GitHub!
 
 ```
+
+
 
 
