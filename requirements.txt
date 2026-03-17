@@ -1,7 +1,9 @@
 streamlit
+streamlit-agraph
+streamlit-tree-select
 scikit-learn
+plotly
 pandas
 numpy
 joblib
-plotly
-matplotlib
+pillow
