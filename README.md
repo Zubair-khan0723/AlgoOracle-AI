@@ -5,7 +5,7 @@
 ### Intelligent Algorithm Prediction System using Machine Learning & NLP
 
 ---
-
+[![Launch App](https://img.shields.io/badge/Launch-App-blue?style=for-the-badge&logo=streamlit)](https://zubair-khan0723-algooracle-ai-app-6wkix0.streamlit.app/)
 ## 🌟 Overview
 
 **AlgoOracle** is an AI-powered system that predicts the most suitable algorithm for solving programming problems using a **Decision Tree Machine Learning model** combined with **Natural Language Processing (NLP)**.
@@ -31,7 +31,7 @@ The system intelligently analyzes problem characteristics through:
 ## 🌐 Live Demo  
 
 🔗 **Try AlgoOracle AI here:**  
-👉 
+👉 https://zubair-khan0723-algooracle-ai-app-6wkix0.streamlit.app/
 
 ⚡ Experience real-time algorithm prediction powered by Machine Learning & NLP.
 
@@ -270,7 +270,7 @@ AlgoOracle-AI/
 This application is deployed on **Streamlit Community Cloud**.
 
 🔗 Live App:  
-
+https://zubair-khan0723-algooracle-ai-app-6wkix0.streamlit.app/
 ## ⚙️ Installation
 
 ```bash
