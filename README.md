@@ -1,7 +1,6 @@
 
 # 🚀 AlgoOracle AI  
 
-[![Open App](https://img.shields.io/badge/🚀%20Launch-App-blue?style=for-the-badge)](https://algooracle-ai-tk6znicsfmvqcxb4aef8w.streamlit.app)
 
 ### Intelligent Algorithm Prediction System using Machine Learning & NLP
 
@@ -32,7 +31,7 @@ The system intelligently analyzes problem characteristics through:
 ## 🌐 Live Demo  
 
 🔗 **Try AlgoOracle AI here:**  
-👉 https://algooracle-ai-tk6znicsfmvqcxb4aef8w.streamlit.app  
+👉 
 
 ⚡ Experience real-time algorithm prediction powered by Machine Learning & NLP.
 
@@ -271,8 +270,6 @@ AlgoOracle-AI/
 This application is deployed on **Streamlit Community Cloud**.
 
 🔗 Live App:  
-https://algooracle-ai-tk6znicisfmycgxb4aef8w.streamlit.app
----
 
 ## ⚙️ Installation
 
