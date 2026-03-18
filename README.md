@@ -311,7 +311,7 @@ Confidence: High
 
 ## 👨‍💻 Author
 
-Developed with ❤️ by **Zubair Khan**
+Developed  by **Zubair Khan**
 
 ---
 
